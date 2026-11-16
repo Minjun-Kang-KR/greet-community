@@ -1,4 +1,4 @@
-"""A friendly greeting package.."""
+"""A friendly greeting package."""
 
 
 def greet(name: str) -> str:
